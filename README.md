@@ -23,4 +23,4 @@ Some scripts for converting kitti data format to YOLO
   Also you should create or modify relevant folders which you can see in the code before you use it
 
 
-kitti tools forked from ***windowsub0406/KITTI_Tutorial***
+
