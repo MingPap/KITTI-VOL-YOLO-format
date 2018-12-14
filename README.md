@@ -21,3 +21,6 @@ Some scripts for converting kitti data format to YOLO
   Randomly divide kitti dataset into proportional parts like *train.txt* *test.txt* *val.txt* *trainval.txt* and so on. This *.txt* files contains absolutely paths of the pictures like **STEP3**, and can be directly used for training. 
   
   Also you should create or modify relevant folders which you can see in the code before you use it
+
+
+kitti tools forked from ***windowsub0406/KITTI_Tutorial***
